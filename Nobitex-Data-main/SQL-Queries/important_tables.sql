@@ -60,7 +60,7 @@ select * from market_type_base;
 
 
 
-select * from accounts_trade_types_base;
+select * from accounts_trade_types_base; -- sdfsdf
 
 
 
